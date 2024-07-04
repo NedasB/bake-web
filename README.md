@@ -1,1 +1,1 @@
-The project was an attempt to meet a set client specification. Within this repository are the creation files required for the website. Due to path/routing issues the github pages are not working so will have to be hosted locally or in some other way. 
+First ever react, a mini website for recipes. - learning
